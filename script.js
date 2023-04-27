@@ -6,4 +6,5 @@ function start(){
 console.log("Hello world");
 console.log("it is the collaborator");
 console.log("edit");
+console.log("just commiting and pushing");
 }
