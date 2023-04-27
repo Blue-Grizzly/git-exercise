@@ -20,5 +20,6 @@ console.log("Hoping to find a conflict")
 function logfunction(){
 console.log("more lines of code")
 console.log("first time");
+console.log("Second time");
 
 }
