@@ -3,6 +3,7 @@
 window.addEventListener("load", start);
 
 function start(){
+logfunction();
 console.log("Hello world");
 console.log("it is the collaborator");
 console.log("edit");
@@ -12,4 +13,11 @@ commitPush();
 
 function commitPush (){
 console.log("Hoping to find a conflict")
+
+ 
+}
+
+function logfunction(){
+    console.log("more lines of code")
+
 }
